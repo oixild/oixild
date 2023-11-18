@@ -15,6 +15,3 @@
 
 - davidsabaterreal@gmail.com
 
-<h2>Discord Status</h2>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/montehua/:0000)
