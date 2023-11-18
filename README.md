@@ -16,4 +16,4 @@
 - davidsabaterreal@gmail.com
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:286107788755730432)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/286107788755730432)
