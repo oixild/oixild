@@ -15,5 +15,6 @@
 
 - davidsabaterreal@gmail.com
 
+<h2>Discord Status</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/286107788755730432)](https://discord.com/users/286107788755730432)
