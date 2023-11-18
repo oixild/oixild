@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my profile!</h2>
 <p align="center">
-    <img src="PONER IMAGEN" />
+    <img src="myHeader-dsabater.jpg" />
 </p>
 
 <h2>About Me</h2>
