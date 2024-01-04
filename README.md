@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my profile!</h2>
 <p align="center">
-    <img src="myHeader-dsabater.jpg" />
+    <img src="myheader-dsabater-java-backend.jpg" />
 </p>
 
 <h2>About Me</h2>
