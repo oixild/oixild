@@ -13,7 +13,7 @@ Greetings! 👋 I'm David Sabater Real, a passionate 20-year-old. Although I rec
 
 <h2>Contact Me</h2>
 
-- davidsabaterreal@gmail.com
+- contact@davidsabater.com
 
 <h2>Discord Status</h2>
 
