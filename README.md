@@ -9,7 +9,7 @@ Greetings! 👋 I'm David Sabater Real, a passionate 20-year-old. Although I rec
 
 <h2>Languages ​​and Technologies💻</h2> 
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 <h2>Contact Me</h2>
