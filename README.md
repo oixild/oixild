@@ -17,11 +17,8 @@ Greetings! 👋 I'm David Sabater Real, a passionate 20-year-old. Although I rec
 ---
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
 <h2>Contact Me</h2>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidsabater.com)
 
-- contact@davidsabater.com
-
-<h2>Discord Status</h2>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/286107788755730432)](https://discord.com/users/286107788755730432)
+<h2>Social Media</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sabater-real/) [![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oixildev)
