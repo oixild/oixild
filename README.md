@@ -5,7 +5,16 @@
 
 ## About Me
 
-Greetings! 👋 I'm David Sabater Real, a passionate 21-year-old. Although I recently started my journey into the programming realm, I've discovered a burning passion for this fascinating universe. My lifelong love for video games inspires me to embark on the thrilling path of development. Join me as I merge my passion for gaming with code to create unique experiences! 🎮💻✨
+Hi! 👋 I'm David Sabater Real, a 23-year-old passionate about technology, programming, and data.
+
+I'm currently building my path into the world of **Data Analysis and Data Science**, developing my skills in Python, SQL, data visualization, statistics, and machine learning.
+
+My lifelong passion for competitive video games has inspired me to combine **gaming and data**, exploring how data can be used to understand performance, discover patterns, and make better decisions.
+
+I'm currently working on **Riftelligence**, a personal project focused on League of Legends esports analytics, where I'm putting my knowledge into practice while learning how to build real-world data projects from end to end.
+
+I'm at the beginning of this journey, but I'm excited to keep learning, building, and improving every day. 📊🐍🎮
+
 
 ## Languages ​​and Technologies💻</h2> 
 
@@ -25,4 +34,3 @@ Greetings! 👋 I'm David Sabater Real, a passionate 21-year-old. Although I rec
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sabater-real/)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oixildev)
