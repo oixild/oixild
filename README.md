@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my profile!</h2>
 <p align="center">
-    <img src="myHeader-dsabater-game-developer.jpg" />
+    <img src="myHeader-dsabater-data.jpg" />
 </p>
 
 ## About Me
